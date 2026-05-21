@@ -1,0 +1,6 @@
+textUser-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+
+Sitemap: https://adifficultgameaboutclimbing.com
